@@ -1,5 +1,5 @@
-Notebook 120
-nPencil 450
+Notebook 118
+Pencil 450
 Stapler 14
 Tape 60
 Envelopes counted: 500
