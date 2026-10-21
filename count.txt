@@ -3,3 +3,4 @@ nPencil 450
 Stapler 14
 Tape 60
 Envelopes counted: 500
+Rubber bands 900
